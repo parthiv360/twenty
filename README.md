@@ -1,6 +1,6 @@
 
 <br>
-<p align="center">
+<p align="center ">
   <a href="https://www.twenty.com">
     <img src="./packages/twenty-website/public/images/core/logo.svg" width="100px" alt="Twenty logo" />
   </a>
